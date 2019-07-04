@@ -4,3 +4,6 @@ then realized the URLs might be duplicated over multiple days so added a _month_
 do a get request, realiz it's [url]_MM_DD so can just do a [:-6]
 
 Articles are in a table called article, it uses the default GDELT v1 labels
+
+K, apparently I can't upload a 7gb file to Github, so here's the link to Google Drive:
+https://drive.google.com/open?id=1-J9VNWdiswnsouSYs540ry85hfogY29C
