@@ -3,13 +3,19 @@ https://www.gdeltproject.org is a cool project that pulls news from all over. He
 
 See the Jupyter Notebook for details on where this is going.
 
+
 .ipynb Files:
+
 Example building time series (Daily, Weekly)
+
 Example Granger Causality
+
 Example ARIMA
 
 
 
 Best Way to Run:
+
 Google Account
+
 Google Colab (research.google.com)
