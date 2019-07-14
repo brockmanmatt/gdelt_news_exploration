@@ -1,5 +1,4 @@
-# example graphs (not well trained):
-https://drive.google.com/open?id=1Ce6ZdbR6pxmowdbQEuymSNI9qDYet-KT
+
 
 # messing around with GDELT
 Data taken from <i>https://www.gdeltproject.org</i> is a cool project that pulls news from all over. Here's where I'm at for figuring out how to find a dataset that's worth playing with. 
